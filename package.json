@@ -1,0 +1,23 @@
+{
+  "name": "network-broadcast-news",
+  "version": "1.0.0",
+  "description": "A NodeJS broadcast server for the largest media conglomerate in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panicboy/Network-Broadcast-News.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panicboy/Network-Broadcast-News/issues"
+  },
+  "homepage": "https://github.com/panicboy/Network-Broadcast-News#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
